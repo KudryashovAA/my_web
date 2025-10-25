@@ -13,6 +13,7 @@ let a = {                // <--Объект
 		 
 		//console.debug(a.test);
 		
+		
 		a.newField = 'Test'
 		//console.debug(a.newField);
 		a.count = 5;
